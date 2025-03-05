@@ -1,6 +1,6 @@
-**# Hello, folks! 👋👋👋  
+# Hello, folks! 👋👋👋  
  
-## I am [Your Name]  
+## I am [Vranda Dubey]  
 
 I am currently pursuing [Your Degree] at [Your University], focused on [Your Field]. My background includes hands-on involvement in diverse domains such as **AI, AR/VR, Web Development, and Data Science**. Moreover, I have engaged in **frontend/backend development**, employing technologies like **ReactJS, Node.js, and Python**.
 
