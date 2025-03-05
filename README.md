@@ -3,6 +3,7 @@
 ## I am [Vranda Dubey]  
 
 I am currently pursuing [B.Tech] at [Banasthali Vidyapith], focused on [Computer Science with Artificial Intelligence]. My background includes hands-on involvement in diverse domains such as **AI, AR/VR, Web Development, and Data Science**. Moreover, I have engaged in **frontend/backend development**, employing technologies like **ReactJS, Node.js, and Python**.
+<img src="prof.png" align="right" width="200px">
 
 ### Achievements
 - Selected as a recipient of [Reliance Scholarship and We-Hack'24 winner.].
